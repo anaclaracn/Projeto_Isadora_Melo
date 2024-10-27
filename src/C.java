@@ -1,4 +1,4 @@
-package src;
+
 
 public class C {
     private String C1;
@@ -17,10 +17,13 @@ public class C {
         C2 = c2;
     }
     
-    public void MA1() {
+    public void MC1() {
         System.out.println("MA1");
     }
-    public void MA2() {
+    public void MC2() {
         System.out.println("MA2");
+    }
+    public void MC3() {
+        System.out.println("MA3");
     }
 }
